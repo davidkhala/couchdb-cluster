@@ -1,0 +1,13 @@
+{
+  "name": "@davidkhala/couchdb",
+  "version": "0.0.0",
+  "dependencies": {
+    "@davidkhala/light": "latest",
+    "@davidkhala/axios": "latest"
+  },
+  "devDependencies": {
+    "mocha": "latest",
+    "@davidkhala/dockerode": "latest"
+  },
+  "type": "module"
+}

@@ -1,3 +1,0 @@
-[submodule "docker-manager"]
-	path = docker-manager
-	url = https://github.com/davidkhala/docker-manager.git
